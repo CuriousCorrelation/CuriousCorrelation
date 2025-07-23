@@ -14,13 +14,13 @@ I tell computers to do stuff. Sometimes I let them figure it out. I'm interested
 
 #### Tools of the Trade
 
-Operating Systems: Custom kernel, [Gentoo Linux](https://www.gentoo.org/), [NixOS](https://nixos.org/)
-Package Management: [Nix Package Manager](https://nixos.org/download.html), [declarative system configuration](https://github.com/CuriousCorrelation/nix-darwin)
-Desktop Environment: [SwayWM](https://swaywm.org/) (Wayland compositor), [Alacritty](https://github.com/alacritty/alacritty) / [Wezterm](https://github.com/wezterm/wezterm) terminal
-Development: [Doom Emacs](https://github.com/doomemacs/doomemacs), [LSP servers](https://microsoft.github.io/language-server-protocol/), [tree-sitter](https://tree-sitter.github.io/tree-sitter/) parsing
-CLI Tools: [fzf](https://github.com/junegunn/fzf) (fuzzy finder), [ripgrep](https://github.com/BurntSushi/ripgrep) (fast search), [conventional commits](https://www.conventionalcommits.org/)
-Languages: [Rust](https://www.rust-lang.org/) 🦀, [TypeScript](https://www.typescriptlang.org/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Python](https://www.python.org/), [C/C++](https://isocpp.org/), [Nix](https://nixos.org/manual/nix/stable/)
-Technologies: [Tauri](https://tauri.app/), [WebAssembly](https://webassembly.org/), [libcurl](https://curl.se/libcurl/), distributed systems, microVMs
+- Operating Systems: Custom kernel, [Gentoo Linux](https://www.gentoo.org/), [NixOS](https://nixos.org/)
+- Package Management: [Nix Package Manager](https://nixos.org/download.html), [declarative system configuration](https://github.com/CuriousCorrelation/nix-darwin)
+- Desktop Environment: [SwayWM](https://swaywm.org/) (Wayland compositor), [Alacritty](https://github.com/alacritty/alacritty) / [Wezterm](https://github.com/wezterm/wezterm) terminal
+- Development: [Doom Emacs](https://github.com/doomemacs/doomemacs), [LSP servers](https://microsoft.github.io/language-server-protocol/), [tree-sitter](https://tree-sitter.github.io/tree-sitter/) parsing
+- CLI Tools: [fzf](https://github.com/junegunn/fzf) (fuzzy finder), [ripgrep](https://github.com/BurntSushi/ripgrep) (fast search), [conventional commits](https://www.conventionalcommits.org/)
+- Languages: [Rust](https://www.rust-lang.org/) 🦀, [TypeScript](https://www.typescriptlang.org/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Python](https://www.python.org/), [C/C++](https://isocpp.org/), [Nix](https://nixos.org/manual/nix/stable/)
+- Technologies: [Tauri](https://tauri.app/), [WebAssembly](https://webassembly.org/), [libcurl](https://curl.se/libcurl/), distributed systems, microVMs
 
 #### Interesting Correlations
 
