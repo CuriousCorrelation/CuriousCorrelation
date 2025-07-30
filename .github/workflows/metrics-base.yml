@@ -23,6 +23,7 @@ jobs:
 
           # === Repository Settings ===
           plugin_repositories: yes
+          plugin_repositories_featured: hoppscotch/hoppscotch
           plugin_repositories_order: pinned, random
           plugin_repositories_affiliations: owner, collaborator, organization_member
           repositories_affiliations: owner, collaborator, organization_member
